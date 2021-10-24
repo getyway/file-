@@ -1,1 +1,4 @@
-49343ur39r3u3r3r-3jr3
+a=3
+h=4
+s=a+h
+print(s)
